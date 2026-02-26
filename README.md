@@ -34,21 +34,21 @@ Southern and Central Zones falls within the mid range.
 <img width="1522" height="693" alt="image" src="https://github.com/user-attachments/assets/252543c5-7d49-46e7-92c4-1b4499896356" />
 
 # Conclusions
-Rental costs in Nairobi is highly determinant on the geographical location.
+-Rental costs in Nairobi is highly determinant on the geographical location.
    The Western Zone records the highest rents across all apartment sizes.
    The Northern Zone follows as an upper-mid tier market.
    Eastern Zone sit in the mid-range.
    Central and Southern Zone generally reflects relatively lower rental prices.
-Rental prices increase sharply as apartment size moves from 1-bedroom to 2-bedroom and 3-bedroom units. This means households that require larger spaces must allocate a significantly higher portion of their income to rent, making affordability more challenging compared to those living in smaller units.
-Based on the UN Housing Affordability Benchmark that Housing costs should not exceed 30% of gross household income: 
-   Low-income and lower-middle-income groups are largely priced out of most neighborhoods- the ones they can afford is based on this rule is Githurai 44 and Ruai.
-   Middle-income earners can afford 1-bedroom units in most neighborhoods, except those located in the Western Zone. However, when considering 2- and 3-bedroom units, their affordable options become significantly limited and are largely concentrated within the Eastern Zone.
-   Upper-income earners are the only group with broad neighborhood and apartment-size flexibility.
-Neighborhoods such as Ongata Rongai, Thika, and Ruai show:
+-Rental prices increase sharply as apartment size moves from 1-bedroom to 2-bedroom and 3-bedroom units. This means households that require larger spaces must allocate a significantly higher portion of their income to rent, making affordability more challenging compared to those living in smaller units.
+-Based on the **UN Housing Affordability Benchmark** that **Housing costs should not exceed 30% of gross household income**: 
+   -Low-income and lower-middle-income groups are largely priced out of most neighborhoods- the ones they can afford is based on this rule is Githurai 44 and Ruai.
+   -Middle-income earners can afford 1-bedroom units in most neighborhoods, except those located in the Western Zone. However, when considering 2- and 3-bedroom units, their affordable options become significantly limited and are largely concentrated within the Eastern Zone.
+   -Upper-income earners are the only group with broad neighborhood and apartment-size flexibility.
+-Neighborhoods such as Ongata Rongai, Thika, and Ruai show:
    Lower rental prices and significantly higher commuting costs (up to Ksh 6,000+)
-Areas such as Kilimani, Lavington, Westlands, and Runda show:
+-Areas such as Kilimani, Lavington, Westlands, and Runda show:
    Monthly rent of above Ksh 100,000 and low to moderate commute costs – suggesting in areas where the rent is premium there is reduced travel time and transport expenses. 
-Westlands records the highest average monthly rent for 1 bedroom unit, while Ruai records the lowest.
+-Westlands records the highest average monthly rent for 1 bedroom unit, while Ruai records the lowest.
 
 
 
